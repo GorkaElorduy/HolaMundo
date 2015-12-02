@@ -40,6 +40,7 @@ public class Alumno {
 		this.apellidos = null;
 		this.becado=false;
 		this.edad=0;
+		this.sexo='I';
 	}
 
 	public Alumno(String nombre) {
