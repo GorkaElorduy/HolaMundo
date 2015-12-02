@@ -6,7 +6,7 @@ public class ParImpar {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		//CAMBIO TONTO
 		System.out.println("Primer ejercicio: ");
 
 		for (int i = 1; i <= 10; i++) {
